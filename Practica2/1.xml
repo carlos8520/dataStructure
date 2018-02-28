@@ -1,0 +1,17 @@
+<?xml version="1.0"?> 
+<!DOCTYPE MENSAJE SYSTEM "chat.dtd"> 
+<mensaje> 
+<remite> 
+<nombre>Carlos Abraham Valencia Torres</nombre> 
+<email>cavalencia10@gmail.com</email> 
+</remite> 
+<destinatario> 
+<nombre>Geraldyluz Amezcua Cobián</nombre> 
+<email>gamezcua1@ucol.mx</email> 
+</destinatario> 
+<asunto>Invitación de colaboración google docs</asunto> 
+<texto> 
+<parrafo><enfasis>Hola Gerald!</enfasis>Estamos listos para trabajar sobre el documento de 
+requerimientos del proyecto integrador, únete si puedes... saludos!</parrafo> 
+</texto> 
+</mensaje>
