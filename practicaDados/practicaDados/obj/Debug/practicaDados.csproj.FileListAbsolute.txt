@@ -1,0 +1,10 @@
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\bin\Debug\practicaDados.exe.config
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\bin\Debug\practicaDados.exe
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\bin\Debug\practicaDados.pdb
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\obj\Debug\practicaDados.csprojResolveAssemblyReference.cache
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\obj\Debug\practicaDados.Form1.resources
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\obj\Debug\practicaDados.Properties.Resources.resources
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\obj\Debug\practicaDados.csproj.GenerateResource.Cache
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\obj\Debug\practicaDados.csproj.CoreCompileInputs.cache
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\obj\Debug\practicaDados.exe
+C:\Users\kabcd\source\repos\practicaDados\practicaDados\obj\Debug\practicaDados.pdb
