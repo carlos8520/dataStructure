@@ -1,0 +1,10 @@
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\bin\Debug\practicaLiebreYTortuga.exe.config
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\bin\Debug\practicaLiebreYTortuga.exe
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\bin\Debug\practicaLiebreYTortuga.pdb
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\obj\Debug\practicaLiebreYTortuga.csprojResolveAssemblyReference.cache
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\obj\Debug\practicaLiebreYTortuga.Form1.resources
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\obj\Debug\practicaLiebreYTortuga.Properties.Resources.resources
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\obj\Debug\practicaLiebreYTortuga.csproj.GenerateResource.Cache
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\obj\Debug\practicaLiebreYTortuga.csproj.CoreCompileInputs.cache
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\obj\Debug\practicaLiebreYTortuga.exe
+C:\Users\kabcd\source\repos\practicaLiebreYTortuga\practicaLiebreYTortuga\obj\Debug\practicaLiebreYTortuga.pdb
