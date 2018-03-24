@@ -1,0 +1,10 @@
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\bin\Debug\practicaErastones.exe.config
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\bin\Debug\practicaErastones.exe
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\bin\Debug\practicaErastones.pdb
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\obj\Debug\practicaErastones.csprojResolveAssemblyReference.cache
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\obj\Debug\practicaErastones.Form1.resources
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\obj\Debug\practicaErastones.Properties.Resources.resources
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\obj\Debug\practicaErastones.csproj.GenerateResource.Cache
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\obj\Debug\practicaErastones.csproj.CoreCompileInputs.cache
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\obj\Debug\practicaErastones.exe
+C:\Users\kabcd\source\repos\practicaErastones\practicaErastones\obj\Debug\practicaErastones.pdb
