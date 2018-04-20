@@ -1,0 +1,10 @@
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\bin\Debug\PracticaEstructuraConArreglos.exe.config
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\bin\Debug\PracticaEstructuraConArreglos.exe
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\bin\Debug\PracticaEstructuraConArreglos.pdb
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\obj\Debug\PracticaEstructuraConArreglos.csprojResolveAssemblyReference.cache
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\obj\Debug\PracticaEstructuraConArreglos.Form1.resources
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\obj\Debug\PracticaEstructuraConArreglos.Properties.Resources.resources
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\obj\Debug\PracticaEstructuraConArreglos.csproj.GenerateResource.Cache
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\obj\Debug\PracticaEstructuraConArreglos.csproj.CoreCompileInputs.cache
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\obj\Debug\PracticaEstructuraConArreglos.exe
+c:\users\kabcd\source\repos\PracticaEstructuraConArreglos\PracticaEstructuraConArreglos\obj\Debug\PracticaEstructuraConArreglos.pdb
