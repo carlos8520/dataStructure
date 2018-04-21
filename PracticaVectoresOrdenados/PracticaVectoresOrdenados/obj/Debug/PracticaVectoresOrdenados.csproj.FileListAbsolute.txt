@@ -1,0 +1,10 @@
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\bin\Debug\PracticaVectoresOrdenados.exe.config
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\bin\Debug\PracticaVectoresOrdenados.exe
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\bin\Debug\PracticaVectoresOrdenados.pdb
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\obj\Debug\PracticaVectoresOrdenados.csprojResolveAssemblyReference.cache
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\obj\Debug\PracticaVectoresOrdenados.Form1.resources
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\obj\Debug\PracticaVectoresOrdenados.Properties.Resources.resources
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\obj\Debug\PracticaVectoresOrdenados.csproj.GenerateResource.Cache
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\obj\Debug\PracticaVectoresOrdenados.csproj.CoreCompileInputs.cache
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\obj\Debug\PracticaVectoresOrdenados.exe
+c:\users\kabcd\source\repos\PracticaVectoresOrdenados\PracticaVectoresOrdenados\obj\Debug\PracticaVectoresOrdenados.pdb
